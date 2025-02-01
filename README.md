@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![](https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)
-[Badge](https://www.credly.com/badges/a9b27456-5d96-44bc-9d4d-295fa6dacbb0/public_url)
-
 <!--
 **polkornyipt/polkornyipt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
